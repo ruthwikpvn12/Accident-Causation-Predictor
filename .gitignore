@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Output folders
+runs/
+
+# Zip files
+*.zip
